@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=mikastars39&style=flat-square" width="120px" alt="profile views" /> 
 </p>
 
-```
+```python
 class PersonalProfile:
     """
     A class to represent a human entity in the tech ecosystem.
